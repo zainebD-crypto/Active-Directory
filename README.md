@@ -24,7 +24,7 @@ If this helps you take your first steps, mission accomplished.
 
 Active Directory stores information about objects on the network such as users,computers, printers, groups and applications. It provides a centrilized database for authentication and authorization, enabling adminstrators to manage acces to network ressources and enforces security policies.
 
-![Active-Directory_-A-Comprehensive-Overview---visual-selection-(1).png](jb-image:img_1769200174303_4e85e2f94129e)
+![image alt](https://github.com/zainebD-crypto/Active-Directory/blob/main/img_1769200174303_4e85e2f94129e.png?raw=true)
 
 ### Active Directory Domain Service (AD DS)
 the AD DS hols the information of all the objects on your network.
@@ -52,14 +52,14 @@ Security Groups vs OUs:
 ### Key components and Concepts:
 Understanding the key components of *Active Directory is crucial. 
 - A **Domain** fundamental unit of organisation in Active Directory. It represents a logical grouping of users, computers and other resoureces that shares a common directoy database and security policies. A domain has a unique name and is managed by one or more domain controllers.
-![Active-Directory_-A-Comprehensive-Overview---visual-selection-(3).png](jb-image:img_1769259759296_04122869d8bf4)
+![image alt](jb-image:img_1769259759296_04122869d8bf4)
 
 
 - A **domain controller** is a server that manages security authentication requests in a Windows Server network. It stores user account information and controls access to resources on the network. It is a critical component for managing and securing a network infrastructure.
-![Active-Directory_-A-Comprehensive-Overview---visual-selection-(2).png](jb-image:img_1769259809987_c453d71d887188)
+![image alt](jb-image:img_1769259809987_c453d71d887188)
 
 - An **Organisational Unit (OU)**: is a container within a domain that allows administrators to organize and manage users, computers and other objects in a hierarchical structure. OUs can be used to delegate administrative control, apply group policies and simplify managment tasks.
-![Active-Directory_-A-Comprehensive-Overview---visual-selection-(4).png](jb-image:img_1769260017666_01d95b833189c8)
+![image alt](jb-image:img_1769260017666_01d95b833189c8)
 
 A **Group Policy**: a powerful feature of active directory that allows administrators to centrally manage user and computer settings. Group policies can be applied to domains, OUs or individual users and computers. They can be used to configure a wide range of settings:
     1.Password policies
@@ -67,17 +67,17 @@ A **Group Policy**: a powerful feature of active directory that allows administr
     3. security settings 
     4.desktop customization
 
-![Active-Directory_-A-Comprehensive-Overview---visual-selection-(5).png](jb-image:img_1769260809686_37d9afe4a68378)
+![image alt](jb-image:img_1769260809686_37d9afe4a68378)
     
 
 - An **Active Directory Schema**: The active directory defines the structure and attributes of objects that can be stored in the directory. It specifies the classes of objects and the propreties that can be associated with each object.
-![Active-Directory_-A-Comprehensive-Overview---visual-selection-(6).png](jb-image:img_1769261044792_9349454a93544)
+![image alt](jb-image:img_1769261044792_9349454a93544)
 
 - **Trust Relationships** allows users in one domain to access resources in another domain. They are essential for enabling collaborration and resource sharing between different domains. Trusts can be one-way or two-way.
-![Active-Directory_-A-Comprehensive-Overview---visual-selection-(7).png](jb-image:img_1769261313961_d4c1e49cbb4f8)
+![image alt](jb-image:img_1769261313961_d4c1e49cbb4f8)
 
 - **Azure Active Directory (Azure AD)** is microsoft's cloud-based identity and access management service. While it shares the Active Directory name, it is a distinct service from on-premises Avtive Directory Domain Services( AD DS). Azure AD os designed for managing identities and access to cloud applications and services. It can be integrated with on-premises AD DS to provide a hybrid identity solution.
-![Active-Directory_-A-Comprehensive-Overview---visual-selection-(8).png](jb-image:img_1769261904097_280177ea2b6d2)
+![image alt](jb-image:img_1769261904097_280177ea2b6d2)
 
 
 Enumerating the benefits of unsing AD : 
