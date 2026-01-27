@@ -59,7 +59,7 @@ Understanding the key components of *Active Directory is crucial.
 ![image alt](https://github.com/zainebD-crypto/Active-Directory/blob/main/img_1769259809987_c453d71d887188.png?raw=true)
 
 - An **Organisational Unit (OU)**: is a container within a domain that allows administrators to organize and manage users, computers and other objects in a hierarchical structure. OUs can be used to delegate administrative control, apply group policies and simplify managment tasks.
-![image alt](jb-image:img_1769260017666_01d95b833189c8)
+![image alt](https://github.com/zainebD-crypto/Active-Directory/blob/main/img_1769260017666_01d95b833189c8.png?raw=true)
 
 A **Group Policy**: a powerful feature of active directory that allows administrators to centrally manage user and computer settings. Group policies can be applied to domains, OUs or individual users and computers. They can be used to configure a wide range of settings:
     1.Password policies
