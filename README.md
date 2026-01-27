@@ -18,8 +18,7 @@ If this helps you take your first steps, mission accomplished.
 - *Advantages of having a configured windows domain:*
     1. **Centralised identity management:** All users across the network can be configured     from Active Directory with minimum effort.
     2. **Managing security policies:** You can configure security policies directly from Active Directory and apply them to users and computers across the network as needed.
-![Active-Directory_-A-Comprehensive-Overview---visual-selection.png](jb-image:img_1769199579688_7e7b8d5c088af)
-
+https://github.com/zainebD-crypto/Active-Directory/blob/185f67890db01c15c0c172051fef90eebbb2bb79/img_1769199579688_7e7b8d5c088af.png
 Active Directory stores information about objects on the network such as users,computers, printers, groups and applications. It provides a centrilized database for authentication and authorization, enabling adminstrators to manage acces to network ressources and enforces security policies.
 ![Active-Directory_-A-Comprehensive-Overview---visual-selection-(1).png](jb-image:img_1769200174303_4e85e2f94129e)
 
