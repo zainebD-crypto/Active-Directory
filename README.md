@@ -56,7 +56,7 @@ Understanding the key components of *Active Directory is crucial.
 
 
 - A **domain controller** is a server that manages security authentication requests in a Windows Server network. It stores user account information and controls access to resources on the network. It is a critical component for managing and securing a network infrastructure.
-![image alt](jb-image:img_1769259809987_c453d71d887188)
+![image alt](https://github.com/zainebD-crypto/Active-Directory/blob/main/img_1769259809987_c453d71d887188.png?raw=true)
 
 - An **Organisational Unit (OU)**: is a container within a domain that allows administrators to organize and manage users, computers and other objects in a hierarchical structure. OUs can be used to delegate administrative control, apply group policies and simplify managment tasks.
 ![image alt](jb-image:img_1769260017666_01d95b833189c8)
