@@ -113,4 +113,5 @@ Active Directory is used in a wide range of scenarios:
 
 ## Conclusion
 Active Directory is a powerful and versatile directory service that provides a foundation for managing users, computers and resources in a Windows domain environment. Its centralized management capabilities, enhanced security features, and simplified user management capabilities, enhanced security features, and simplified user management tools make it an essential component of modern It infrasturcture. While Azure AD is increasingly important for cloud-based identity management on-premises Active Directory remains a critical component for many organizations, especially those with hybrid environments. Understanding the core concepts and benefits of Active Directory is crucail for IT professionals who are responsible for managing and securing their organization's network.
-![Active-Directory_-A-Comprehensive-Overview---visual-selection-(9).png](jb-image:img_1769263853467_3911158ba3f128)
+
+![image alt](https://github.com/zainebD-crypto/Active-Directory/blob/main/img_1769263853467_3911158ba3f128.png?raw=true)
