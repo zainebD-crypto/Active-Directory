@@ -52,7 +52,7 @@ Security Groups vs OUs:
 ### Key components and Concepts:
 Understanding the key components of *Active Directory is crucial. 
 - A **Domain** fundamental unit of organisation in Active Directory. It represents a logical grouping of users, computers and other resoureces that shares a common directoy database and security policies. A domain has a unique name and is managed by one or more domain controllers.
-![image alt](jb-image:img_1769259759296_04122869d8bf4)
+![image alt](https://github.com/zainebD-crypto/Active-Directory/blob/main/img_1769259759296_04122869d8bf4.png?raw=true)
 
 
 - A **domain controller** is a server that manages security authentication requests in a Windows Server network. It stores user account information and controls access to resources on the network. It is a critical component for managing and securing a network infrastructure.
