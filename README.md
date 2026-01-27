@@ -71,7 +71,7 @@ A **Group Policy**: a powerful feature of active directory that allows administr
     
 
 - An **Active Directory Schema**: The active directory defines the structure and attributes of objects that can be stored in the directory. It specifies the classes of objects and the propreties that can be associated with each object.
-![image alt](jb-image:img_1769261044792_9349454a93544)
+![image alt](https://github.com/zainebD-crypto/Active-Directory/blob/main/img_1769261044792_9349454a93544.png?raw=true)
 
 - **Trust Relationships** allows users in one domain to access resources in another domain. They are essential for enabling collaborration and resource sharing between different domains. Trusts can be one-way or two-way.
 ![image alt](jb-image:img_1769261313961_d4c1e49cbb4f8)
