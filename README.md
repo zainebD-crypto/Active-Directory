@@ -67,7 +67,7 @@ A **Group Policy**: a powerful feature of active directory that allows administr
     3. security settings 
     4.desktop customization
 
-![image alt](jb-image:img_1769260809686_37d9afe4a68378)
+![image alt](https://github.com/zainebD-crypto/Active-Directory/blob/main/img_1769260809686_37d9afe4a68378.png?raw=true)
     
 
 - An **Active Directory Schema**: The active directory defines the structure and attributes of objects that can be stored in the directory. It specifies the classes of objects and the propreties that can be associated with each object.
