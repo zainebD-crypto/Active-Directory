@@ -74,7 +74,7 @@ A **Group Policy**: a powerful feature of active directory that allows administr
 ![image alt](https://github.com/zainebD-crypto/Active-Directory/blob/main/img_1769261044792_9349454a93544.png?raw=true)
 
 - **Trust Relationships** allows users in one domain to access resources in another domain. They are essential for enabling collaborration and resource sharing between different domains. Trusts can be one-way or two-way.
-![image alt](jb-image:img_1769261313961_d4c1e49cbb4f8)
+![image alt](https://github.com/zainebD-crypto/Active-Directory/blob/main/img_1769261313961_d4c1e49cbb4f8.png?raw=true)
 
 - **Azure Active Directory (Azure AD)** is microsoft's cloud-based identity and access management service. While it shares the Active Directory name, it is a distinct service from on-premises Avtive Directory Domain Services( AD DS). Azure AD os designed for managing identities and access to cloud applications and services. It can be integrated with on-premises AD DS to provide a hybrid identity solution.
 ![image alt](jb-image:img_1769261904097_280177ea2b6d2)
