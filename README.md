@@ -28,6 +28,7 @@ Active Directory stores information about objects on the network such as users,c
 
 ### Active Directory Domain Service (AD DS)
 the AD DS hols the information of all the objects on your network.
+AD DS stores information about objects on the network and makes this information easy for administrators and users to find and use. AD DS uses a structured data store as the basis for a logical, hierarchical organization of directory information.
 
 Active Directory has two types of groups:
 - **Security groups:** Used to assign permissions to shared resources.
